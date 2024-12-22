@@ -1,0 +1,151 @@
+.web-page-main-div {
+    display: inline-block;
+    width: 1604px;
+    background-color: #1B0E0F;
+}
+
+.web-page-second-div {
+    display: inline-block;
+    width: 1412px;
+    background-color: #FFFFFF;
+    margin: 96px;
+}
+
+.header-text-container {
+    display: inline-block;
+    width: 1415px;
+    margin-bottom: 56px;
+}
+
+.start-text {
+    display: inline-block;
+    width: 1216px;
+    color: #002AFE;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 98px;
+    margin-bottom: 6px;
+}
+
+.header-text {
+    display: inline-block;
+    width: 1216px;
+    text-align: center;
+    margin-left: 98px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.header-p {
+    display: inline-block;
+    width: 1216px;
+    font-size: 20px;
+    color: #535862;
+    text-align: center;
+    margin-left: 98px;
+    margin-top: 6px;
+}
+
+.desgin-main-container {
+    display: inline-block;
+    width: 1280px;
+    margin-left: 66px;
+    vertical-align: top;
+}
+
+.first-div {
+    display: inline-block;
+    width: 600px;
+    margin-left: 66px;
+}
+
+.first-image {
+    display: inline-block;
+    border-radius: 1rem;
+}
+
+.second-div {
+    display: inline-block;
+    width: 584px;
+    vertical-align: top;
+}
+
+.header {
+    display: inline-block;
+    vertical-align: top;
+    width: 580px;
+    font-size: 14px;
+    color: #6941C6;
+    margin-left: 96px;
+    margin-top: 93.5px;
+    margin-bottom: 8px;
+}
+
+.description-header {
+    display: inline-block;
+    width: 544px;
+    color: #181D27;
+    font-size: 24px;
+    margin-left: 96px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.description {
+    display: inline-block;
+    width: 584px;
+    font-size: 16px;
+    color: #535862;
+    margin-left: 96px;
+}
+
+.avatar-main-div {
+    display: inline-block;
+    width: 130px;
+    margin-left: 96px;
+    margin-top: 24px;
+}
+
+.avatar-div {
+    display: inline-block;
+}
+
+.avatar-text-div {
+    display: inline-block;
+    width: 82px;
+    vertical-align: top;
+}
+
+.person-name {
+    display: inline-block;
+    width: 79px;
+    font-size: 14px;
+    margin: 0 auto;
+    color: #181D27;
+}
+
+.person-info {
+    display: inline-block;
+    margin: 0 auto;
+    width: 82px;
+    font-size: 14px;
+    color: #535862;
+}
+
+.product-main-container {
+    display: inline-block;
+    width: 1280px;
+    margin-left: 66px;
+    margin-top: 56px;
+}
+
+.third-div {
+    display: inline-block;
+}
+
+.fifth-div {
+    display: inline-block;
+    width: 592px;
+    margin-left: 66px;
+    margin-top: 56px;
+}
